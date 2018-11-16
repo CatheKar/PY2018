@@ -13,4 +13,3 @@ if __name__=='__main__':
         [math.sin(a) * math.sin(a/20.0) for a in arguments] # список значений функции
     )
     mpp.show() #выводит график функции
-н
